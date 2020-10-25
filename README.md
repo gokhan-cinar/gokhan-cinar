@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Gökhan from Turkey, I do Design and Development. I really enjoy learning languages and frameworks like Vuejs and Angular. I also enjoy wireframing, ui, ux, and design in general. 
+I'm Gökhan from Turkey, I do Development. I really enjoy learning languages and frameworks like Vuejs. I also enjoy ui, ux, and design in general. 
 
 ## Skills and Experience
  
